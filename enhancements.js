@@ -1,1 +1,1 @@
-// Bonus features like bot/leaderboard
+// bonus features
